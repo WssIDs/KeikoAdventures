@@ -1,0 +1,2 @@
+#! /bin/sh
+exec /home/wssids/GDrive/KeikoAdventures/Plugins/VlcMedia/ThirdParty/vlc/Linux/x86_64-unknown-linux-gnu/bin/vlc -I "ncurses" "$@"
